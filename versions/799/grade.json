@@ -1,0 +1,93 @@
+[
+	{
+		"code": "K",
+		"names": {
+			"en-ca": "Kindergarten",
+			"fr-ca": "Maternelle"
+		}
+	},	
+	{
+		"code": "1",
+		"names": {
+			"en-ca": "Grade 1",
+			"fr-ca": "1ᵉʳ année"
+		}
+	},
+	{
+		"code": "2",
+		"names": {
+			"en-ca": "Grade 2",
+			"fr-ca": "2ᵉ année"
+		}
+	},
+	{
+		"code": "3",
+		"names": {
+			"en-ca": "Grade 3",
+			"fr-ca": "3ᵉ année"
+		}
+	},
+	{
+		"code": "4",
+		"names": {
+			"en-ca": "Grade 4",
+			"fr-ca": "4ᵉ année"
+		}
+	},
+	{
+		"code": "5",
+		"names": {
+			"en-ca": "Grade 5",
+			"fr-ca": "5ᵉ année"
+		}
+	},
+	{
+		"code": "6",
+		"names": {
+			"en-ca": "Grade 6",
+			"fr-ca": "6ᵉ année"
+		}
+	},
+	{
+		"code": "7",
+		"names": {
+			"en-ca": "Grade 7",
+			"fr-ca": "7ᵉ année"
+		}
+	},
+	{
+		"code": "8",
+		"names": {
+			"en-ca": "Grade 8",
+			"fr-ca": "8ᵉ année"
+		}
+	},
+	{
+		"code": "9",
+		"names": {
+			"en-ca": "Grade 9",
+			"fr-ca": "9ᵉ année"
+		}
+	},
+	{
+		"code": "10",
+		"names": {
+			"en-ca": "Grade 10",
+			"fr-ca": "10ᵉ année"
+		}
+	},
+	{
+		"code": "11",
+		"names": {
+			"en-ca": "Grade 11",
+			"fr-ca": "11ᵉ année"
+		}
+	},
+	{
+		"code": "12",
+		"names": {
+			"en-ca": "Grade 12",
+			"fr-ca": "12ᵉ année"
+		}
+	}
+]

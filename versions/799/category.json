@@ -1,0 +1,147 @@
+[
+  {
+    "code": "FAR",
+    "names": {
+      "en-ca": "Fine Arts",
+      "fr-ca": "Beaux-arts"
+    },
+    "parentCode": "",
+    "frontMatterCode": "FAR",
+    "keywordCodes": [],
+    "sortOrder": 1,
+    "children": [
+      {
+        "code": "FARDAN",
+        "names": {
+          "en-ca": "Dance",
+          "fr-ca": "Danse"
+        },
+        "parentCode": "FAR",
+        "frontMatterCode": "FARDAN",
+        "keywordCodes": [],
+        "sortOrder": 1,
+        "children": []
+      },
+      {
+        "code": "FARDMA",
+        "names": {
+          "en-ca": "Drama",
+          "fr-ca": "Art dramatique"
+        },
+        "parentCode": "FAR",
+        "frontMatterCode": "FARDMA",
+        "keywordCodes": [],
+        "sortOrder": 2,
+        "children": []
+      },
+      {
+        "code": "FARGEN",
+        "names": {
+          "en-ca": "Music",
+          "fr-ca": "Musique"
+        },
+        "parentCode": "FAR",
+        "frontMatterCode": "FARGEN",
+        "keywordCodes": [],
+        "sortOrder": 3,
+        "children": []
+      },
+      {
+        "code": "FARART",
+        "names": {
+          "en-ca": "Visual Arts",
+          "fr-ca": "Arts visuels"
+        },
+        "parentCode": "FAR",
+        "frontMatterCode": "FARART",
+        "keywordCodes": [],
+        "sortOrder": 4,
+        "children": []
+      }
+    ]
+  },
+  {
+    "code": "LANENG",
+    "frontMatterCode": "LANENG",
+    "names": {
+      "en-ca": "English Language Arts and Literature",
+      "fr-ca": "English Language Arts and Literature"
+    },
+    "parentCode": "",
+    "keywordCodes": [],
+    "sortOrder": 2,
+    "children": []
+  },
+  {
+    "code": "LANFRA",
+    "frontMatterCode": "LANFRA",
+    "names": {
+      "en-ca": "Français langue première et littérature",
+      "fr-ca": "Français langue première et littérature"
+    },
+    "parentCode": "",
+    "keywordCodes": [],
+    "sortOrder": 3,
+    "children": []
+  },
+  {
+    "code": "OLAFLA",
+    "frontMatterCode": "OLAFLA",
+    "names": {
+      "en-ca": "Français immersion et littérature",
+      "fr-ca": "Français immersion et littérature"
+    },
+    "parentCode": "",
+    "keywordCodes": [],
+    "sortOrder": 4,
+    "children": []
+  },
+  {
+    "code": "MAT",
+    "frontMatterCode": "MAT",
+    "names": {
+      "en-ca": "Mathematics",
+      "fr-ca": "Mathématiques"
+    },
+    "parentCode": "",
+    "keywordCodes": [],
+    "sortOrder": 5,
+    "children": []
+  },
+  {
+    "code": "SCI",
+    "frontMatterCode": "SCI",
+    "names": {
+      "en-ca": "Science",
+      "fr-ca": "Sciences"
+    },
+    "parentCode": "",
+    "keywordCodes": [],
+    "sortOrder": 6,
+    "children": []
+  },
+  {
+    "code": "SSS",
+    "frontMatterCode": "SSS",
+    "names": {
+      "en-ca": "Social Studies",
+      "fr-ca": "Études sociales"
+    },
+    "parentCode": "",
+    "keywordCodes": [],
+    "sortOrder": 7,
+    "children": []
+  },
+  {
+    "code": "PDE",
+    "frontMatterCode": "PDE",
+    "names": {
+      "en-ca": "Physical Education and Wellness",
+      "fr-ca": "Éducation physique et bienêtre"
+    },
+    "parentCode": "",
+    "keywordCodes": [],
+    "sortOrder": 8,
+    "children": []
+  }
+]
