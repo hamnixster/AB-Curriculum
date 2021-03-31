@@ -9,6 +9,15 @@
 
    In future, more of the changes should be detected.
 
+* Differences Between 799 and 801
+** Added
+*** Music
+    This copy was added to the footer of the printable PDF and as a notice on the music section of the webpage.
+**** en-ca
+     All works included are illustrative examples only and are not mandatory teaching elements.
+**** fr-ca
+     Toutes les œuvres incluses ne sont que des exemples illustratifs et ne sont pas des éléments d'enseignement obligatoires.
+
 * Differences Between 795 and 799
 ** Before
 *** Social Studies 6

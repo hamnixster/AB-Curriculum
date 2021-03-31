@@ -1,0 +1,723 @@
+[
+  {
+    "code": "curriculum.learning-outcome",
+    "value": {
+      "en-ca": "Learning Outcome",
+      "fr-ca": "Résultat d’apprentissage"
+    }
+  },
+  {
+    "code": "curriculum.knowledge",
+    "value": {
+      "en-ca": "Knowledge",
+      "fr-ca": "Connaissances"
+    }
+  },
+  {
+    "code": "curriculum.understanding",
+    "value": {
+      "en-ca": "Understanding",
+      "fr-ca": "Compréhension"
+    }
+  },
+  {
+    "code": "curriculum.skills-procedures",
+    "value": {
+      "en-ca": "Skills & Procedures",
+      "fr-ca": "Habiletés et procédures"
+    }
+  },
+  {
+    "code": "curriculum.organizing-idea",
+    "value": {
+      "en-ca": "Organizing Idea",
+      "fr-ca": "Idée organisatrice"
+    }
+  },
+  {
+    "code": "curriculum.guiding-question",
+    "value": {
+      "en-ca": "Guiding Question",
+      "fr-ca": "Question directrice"
+    }
+  },
+  {
+    "code": "curriculum.competencies",
+    "value": {
+      "en-ca": "Competency Progressions",
+      "fr-ca": "Les progressions en compétences"
+    }
+  },
+  {
+    "code": "curriculum.numeracy",
+    "value": {
+      "en-ca": "Numeracy Progressions",
+      "fr-ca": "Les progressions en numératie"
+    }
+  },
+  {
+    "code": "curriculum.literacy",
+    "value": {
+      "en-ca": "Literacy Progressions",
+      "fr-ca": "Les progressions en littératie"
+    }
+  },
+  {
+    "code": "divisions.k",
+    "value": {
+      "en-ca": "Kindergarten (ages 4–5)",
+      "fr-ca": "Maternelle (4 et 5 ans)"
+    }
+  },
+  {
+    "code": "divisions.1",
+    "value": {
+      "en-ca": "Division 1 (ages 6–8)",
+      "fr-ca": "Division 1 (de 6 à 8 ans) "
+    }
+  },
+  {
+    "code": "divisions.2",
+    "value": {
+      "en-ca": "Division 2 (ages 9–11)",
+      "fr-ca": "Division 2 (de 9 à 11 ans) "
+    }
+  },
+  {
+    "code": "divisions.3",
+    "value": {
+      "en-ca": "Division 3 (ages 12–14)",
+      "fr-ca": "Division 3 (de 12 à 14 ans) "
+    }
+  },
+  {
+    "code": "links.survey-description",
+    "value": {
+      "en-ca": "Have any feedback on the 2021 draft K–6 curriculum?",
+      "fr-ca": "Avez-vous des commentaires sur l’ébauche 2021 du curriculum M à 6?"
+    }
+  },
+  {
+    "code": "links.survey-link-title",
+    "value": {
+      "en-ca": "Provide Feedback",
+      "fr-ca": "Fournir des commentaires"
+    }
+  },
+  {
+    "code": "links.contact-us",
+    "value": {
+      "en-ca": "Contact Us",
+      "fr-ca": "Nous contacter"
+    }
+  },
+  {
+    "code": "links.back-to-top",
+    "value": {
+      "en-ca": "Back to Top",
+      "fr-ca": "Retour au sommet"
+    }
+  },
+  {
+    "code": "links.curriculum-and-resource",
+    "value": {
+      "en-ca": "Curriculum and Resources",
+      "fr-ca": "​Curriculum et ressources"
+    }
+  },
+  {
+    "code": "links.draft-curriculum",
+    "value": {
+      "en-ca": "2021 Draft K—6 Curriculum",
+      "fr-ca": "Ébauche 2021 du curriculum M à 6"
+    }
+  },
+  {
+    "code": "links.draft-curriculum-title",
+    "value": {
+      "en-ca": "2021 Draft Kindergarten—Grade 6 (K—6) Curriculum",
+      "fr-ca": "Ébauche 2021 du curriculum de la maternelle à la 6<sup>e</sup> année (M à 6)"
+    }
+  },
+  {
+    "code": "links.current-curriculum",
+    "value": {
+      "en-ca": "Printable Curriculum",
+      "fr-ca": "​Curriculum imprimable"
+    }
+  },
+  {
+    "code": "links.curriculum-implementation-toolkit",
+    "value": {
+      "en-ca": "Curriculum Implementation Information Hub",
+      "fr-ca": "Centre d’information sur la mise en œuvre du curriculum"
+    }
+  },
+  {
+    "code": "links.explore-resources",
+    "value": {
+      "en-ca": "Explore Resources",
+      "fr-ca": "​Trouver des ressources"
+    }
+  },
+  {
+    "code": "links.student-information-learning-hub",
+    "value": {
+      "en-ca": "Student Learning Hub",
+      "fr-ca": "Centre d’apprentissage des élèves"
+    }
+  },
+  {
+    "code": "links.get-in-touch",
+    "value": {
+      "en-ca": "Get In Touch",
+      "fr-ca": "​Nous contacter"
+    }
+  },
+  {
+    "code": "links.links",
+    "value": {
+      "en-ca": "Links",
+      "fr-ca": "Liens"
+    }
+  },
+  {
+    "code": "links.support",
+    "value": {
+      "en-ca": "Support",
+      "fr-ca": "Aide"
+    }
+  },
+  {
+    "code": "links.using-this-site",
+    "value": {
+      "en-ca": "Using this Site",
+      "fr-ca": "À propos du site Web"
+    }
+  },
+  {
+    "code": "links.terms-of-use",
+    "value": {
+      "en-ca": "Terms of Use",
+      "fr-ca": "Conditions d'utilisation"
+    }
+  },
+  {
+    "code": "links.privacy",
+    "value": {
+      "en-ca": "Privacy",
+      "fr-ca": "Confidentialité"
+    }
+  },
+  {
+    "code": "links.learn-alberta",
+    "value": {
+      "en-ca": "Learn Alberta",
+      "fr-ca": "Learn Alberta (fr)"
+    }
+  },
+  {
+    "code": "links.teacher-access",
+    "value": {
+      "en-ca": "Teacher Access",
+      "fr-ca": "Accès de l'enseignant"
+    }
+  },
+  {
+    "code": "links.home",
+    "value": {
+      "en-ca": "Home",
+      "fr-ca": "Accueil"
+    }
+  },
+  {
+    "code": "links.main-menu",
+    "value": {
+      "en-ca": "Main Menu",
+      "fr-ca": "Menu principal"
+    }
+  },
+  {
+    "code": "links.browse-by-subject",
+    "value": {
+      "en-ca": "Browse by Subject",
+      "fr-ca": "Parcourir par matière "
+    }
+  },
+  {
+    "code": "links.features-of-provincial-curriculum",
+    "value": {
+      "en-ca": "Features of the Provincial Curriculum",
+      "fr-ca": "​Caractéristiques du curriculum provincial"
+    }
+  },
+  {
+    "code": "links.competencies",
+    "value": {
+      "en-ca": "Competency Progressions",
+      "fr-ca": "Les progressions en compétences"
+    }
+  },
+  {
+    "code": "links.literacy",
+    "value": {
+      "en-ca": "Literacy Progressions",
+      "fr-ca": "Les progressions en littératie"
+    }
+  },
+  {
+    "code": "links.numeracy",
+    "value": {
+      "en-ca": "Numeracy Progressions",
+      "fr-ca": "Les progressions en numératie"
+    }
+  },
+  {
+    "code": "page.illustrative-examples",
+    "value": {
+      "en-ca": "All works included are illustrative examples only and are not mandatory teaching elements.",
+      "fr-ca": "Toutes les œuvres incluses ne sont que des exemples illustratifs et ne sont pas des éléments d'enseignement obligatoires."
+    }
+  },
+  {
+    "code": "page.prev",
+    "value": {
+      "en-ca": "Prev",
+      "fr-ca": "Préc"
+    }
+  },
+  {
+    "code": "page.previous",
+    "value": {
+      "en-ca": "Previous",
+      "fr-ca": "Précédent"
+    }
+  },
+  {
+    "code": "page.next",
+    "value": {
+      "en-ca": "Next",
+      "fr-ca": "Suivant"
+    }
+  },
+  {
+    "code": "page.subject-introduction",
+    "value": {
+      "en-ca": "Subject Introduction",
+      "fr-ca": "Introduction à la matière"
+    }
+  },
+  {
+    "code": "page.organizing-ideas",
+    "value": {
+      "en-ca": "Organizing Ideas",
+      "fr-ca": "Idées organisatrices"
+    }
+  },
+  {
+    "code": "page.expand-all",
+    "value": {
+      "en-ca": "Expand All",
+      "fr-ca": "Afficher tout"
+    }
+  },
+  {
+    "code": "page.collapse-all",
+    "value": {
+      "en-ca": "Collapse All",
+      "fr-ca": "Réduire tout"
+    }
+  },
+  {
+    "code": "page.search-draft-curriculum",
+    "value": {
+      "en-ca": "Search 2021 Draft K—6 Curriculum",
+      "fr-ca": "Rechercher l’ébauche 2021 du curriculum M à 6"
+    }
+  },
+  {
+    "code": "page.cancel",
+    "value": {
+      "en-ca": "Cancel",
+      "fr-ca": "Annuler"
+    }
+  },
+  {
+    "code": "page.grades",
+    "value": {
+      "en-ca": "Grades",
+      "fr-ca": "​Niveaux scolaires"
+    }
+  },
+  {
+    "code": "page.subject",
+    "value": {
+      "en-ca": "Subjects",
+      "fr-ca": "Matières"
+    }
+  },
+  {
+    "code": "page.select-all",
+    "value": {
+      "en-ca": "Select All",
+      "fr-ca": "Sélectionner tout"
+    }
+  },
+  {
+    "code": "page.unselect-all",
+    "value": {
+      "en-ca": "Unselect All",
+      "fr-ca": "Désélectionner tout"
+    }
+  },
+  {
+    "code": "page.grade",
+    "value": {
+      "en-ca": "Grade",
+      "fr-ca": "Niveau scolaire"
+    }
+  },
+  {
+    "code": "page.more-info",
+    "value": {
+      "en-ca": "More Info",
+      "fr-ca": "Lire la suite"
+    }
+  },
+  {
+    "code": "page.home-description",
+    "value": {
+      "en-ca": "Select the Subject or Feature below to begin browsing the 2021 draft K—6 curriculum.",
+      "fr-ca": "Sélectionnez la matière ou la caractéristique ci-dessous pour commencer à parcourir l’ébauche 2021 du curriculum M à 6"
+    }
+  },
+  {
+    "code": "page.search-empty",
+    "value": {
+      "en-ca": "Please enter criteria to search",
+      "fr-ca": "Veuillez entrer les critères de recherche"
+    }
+  },
+  {
+    "code": "page.search-searching",
+    "value": {
+      "en-ca": "Searching …",
+      "fr-ca": "Recherche en cours..."
+    }
+  },
+  {
+    "code": "page.search-results-count",
+    "value": {
+      "en-ca": "${count} results matching your search criteria. ",
+      "fr-ca": "${count} résultats correspondant à vos critères de recherche. "
+    }
+  },
+  {
+    "code": "page.search-results-count-capped",
+    "value": {
+      "en-ca": "Showing ${count} of ${total} results. ",
+      "fr-ca": "${count} de ${total} résultats. "
+    }
+  },
+  {
+    "code": "page.items-per-page",
+    "value": {
+      "en-ca": "Items per page:",
+      "fr-ca": "Éléments par page :"
+    }
+  },
+  {
+    "code": "page.next-page",
+    "value": {
+      "en-ca": "Next page",
+      "fr-ca": "Page suivante"
+    }
+  },
+  {
+    "code": "page.previous-page",
+    "value": {
+      "en-ca": "Previous page",
+      "fr-ca": "Page précédente"
+    }
+  },
+  {
+    "code": "page.last-page",
+    "value": {
+      "en-ca": "Last page",
+      "fr-ca": "Dernière page"
+    }
+  },
+  {
+    "code": "page.first-page",
+    "value": {
+      "en-ca": "First page",
+      "fr-ca": "Première page"
+    }
+  },
+  {
+    "code": "page.item-range",
+    "value": {
+      "en-ca": "${first} - ${last} of ${count}",
+      "fr-ca": "${first} - ${last} of ${count}"
+    }
+  },
+  {
+    "code": "page.item-range-zero",
+    "value": {
+      "en-ca": "0 of 0",
+      "fr-ca": "0 de 0"
+    }
+  },
+  {
+    "code": "page.apply-filter",
+    "value": {
+      "en-ca": "Apply",
+      "fr-ca": "Soumettre"
+    }
+  },
+  {
+    "code": "page.change-subject",
+    "value": {
+      "en-ca": "Change Subject",
+      "fr-ca": "Changer la matière"
+    }
+  },
+  {
+    "code": "page.change-feature",
+    "value": {
+      "en-ca": "Change Feature",
+      "fr-ca": "Changer la caractéristique"
+    }
+  },
+  {
+    "code": "page.component",
+    "value": {
+      "en-ca": "Components/Features",
+      "fr-ca": "Composantes/Caractéristiques"
+    }
+  },
+  {
+    "code": "page.clear-filters",
+    "value": {
+      "en-ca": "Clear Filters",
+      "fr-ca": "Effacer les filtres"
+    }
+  },
+  {
+    "code": "page.signout",
+    "value": {
+      "en-ca": "Sign Out",
+      "fr-ca": "Fermer la session"
+    }
+  },
+  {
+    "code": "page.login",
+    "value": {
+      "en-ca": "Login",
+      "fr-ca": "Ouvrir une session"
+    }
+  },
+  {
+    "code": "page.close",
+    "value": {
+      "en-ca": "Close",
+      "fr-ca": "Fermer"
+    }
+  },
+  {
+    "code": "page.continue-with-goa",
+    "value": {
+      "en-ca": "Continue with GOA",
+      "fr-ca": "Continuer avec GOA"
+    }
+  },
+  {
+    "code": "page.new-learn-alberta",
+    "value": {
+      "en-ca": "new LearnAlberta",
+      "fr-ca": "nouveau LearnAlberta"
+    }
+  },
+  {
+    "code": "page.not-found-title",
+    "value": {
+      "en-ca": "Not Found",
+      "fr-ca": "Aucun résultat"
+    }
+  },
+  {
+    "code": "page.not-found-text",
+    "value": {
+      "en-ca": "A 404 error (page not found) has occurred, sorry about that. I will make sure the hamster gets back on the wheel and you can get going again.",
+      "fr-ca": "Une erreur 404 (page non trouvée) s'est produite, désolé. Je vais faire en sorte que le hamster retourne dans sa roue d'exercice afin que vous puissiez continuer."
+    }
+  },
+  {
+    "code": "page.not-found-link",
+    "value": {
+      "en-ca": "Click here to get back to safety.",
+      "fr-ca": "Cliquez ici pour revenir en lieu sûr."
+    }
+  },
+  {
+    "code": "page.yes",
+    "value": {
+      "en-ca": "Yes",
+      "fr-ca": "Oui"
+    }
+  },
+  {
+    "code": "page.no",
+    "value": {
+      "en-ca": "No",
+      "fr-ca": "Non"
+    }
+  },
+  {
+    "code": "page.recommended-resources",
+    "value": {
+      "en-ca": "Recommended Resources",
+      "fr-ca": "Ressources recommandées"
+    }
+  },
+  {
+    "code": "page.recommended-resources-disc",
+    "value": {
+      "en-ca": "The following resources are recommended to support the curriculum, they are not authorized by Alberta Education.",
+      "fr-ca": "Les ressources suivantes sont recommandées pour appuyer le curriculum, elles ne sont pas autorisées par Alberta Education."
+    }
+  },
+  {
+    "code": "contact-us.title",
+    "value": {
+      "en-ca": "Contact Us",
+      "fr-ca": "Nous contacter"
+    }
+  },
+  {
+    "code": "contact-us.name",
+    "value": {
+      "en-ca": "Name*",
+      "fr-ca": "Nom*"
+    }
+  },
+  {
+    "code": "contact-us.phone-number",
+    "value": {
+      "en-ca": "Phone Number",
+      "fr-ca": "Numéro de téléphone"
+    }
+  },
+  {
+    "code": "contact-us.email-address",
+    "value": {
+      "en-ca": "Email Address*",
+      "fr-ca": "Adresse de courriel*"
+    }
+  },
+  {
+    "code": "contact-us.follow-up",
+    "value": {
+      "en-ca": "Would you like a followup?",
+      "fr-ca": "Souhaitez-vous un suivi?"
+    }
+  },
+  {
+    "code": "contact-us.comments",
+    "value": {
+      "en-ca": "Comments*",
+      "fr-ca": "Commentaires*"
+    }
+  },
+  {
+    "code": "contact-us.footer-1",
+    "value": {
+      "en-ca": "For inquiries regarding teachers’ accounts and login, please phone our helpdesk at 780-427-5318 (toll free using 310-0000)",
+      "fr-ca": "Pour obtenir des renseignements sur les comptes des enseignants et l’ouverture d’une session, veuillez appeler notre service d’aide au 780-427-5318 (composez d’abord le 310-0000 pour obtenir une ligne sans frais)."
+    }
+  },
+  {
+    "code": "contact-us.send",
+    "value": {
+      "en-ca": "Send Comments",
+      "fr-ca": "Envoyer les commentaires"
+    }
+  },
+  {
+    "code": "contact-us.name-error",
+    "value": {
+      "en-ca": "Name required",
+      "fr-ca": "Nom requis"
+    }
+  },
+  {
+    "code": "contact-us.email-address-error",
+    "value": {
+      "en-ca": "Email Address is required",
+      "fr-ca": "Adresse de courriel requis"
+    }
+  },
+  {
+    "code": "contact-us.email-address-error-invalid",
+    "value": {
+      "en-ca": "Email Address is invalid",
+      "fr-ca": "Adresse de courriel pas valide"
+    }
+  },
+  {
+    "code": "contact-us.comments-error",
+    "value": {
+      "en-ca": "Comments required",
+      "fr-ca": "Commentaires requis"
+    }
+  },
+  {
+    "code": "contact-us.hint",
+    "value": {
+      "en-ca": "*Required",
+      "fr-ca": "*Requis"
+    }
+  },
+  {
+    "code": "contact-us.message-sent",
+    "value": {
+      "en-ca": "Message Sent",
+      "fr-ca": "Message envoyé"
+    }
+  },
+  {
+    "code": "browser-compatibility.text",
+    "value": {
+      "en-ca": "For best results, please consider using one of the following browsers:",
+      "fr-ca": "Pour obtenir de meilleurs résultats, veuillez utiliser l'un des navigateurs suivants :"
+    }
+  },
+  {
+    "code": "browser-compatibility.chrome",
+    "value": {
+      "en-ca": "Chrome",
+      "fr-ca": "Chrome"
+    }
+  },
+  {
+    "code": "browser-compatibility.safari",
+    "value": {
+      "en-ca": "Safari",
+      "fr-ca": "Safari"
+    }
+  },
+  {
+    "code": "browser-compatibility.edge",
+    "value": {
+      "en-ca": "Edge",
+      "fr-ca": "Edge"
+    }
+  },
+  {
+    "code": "browser-compatibility.firefox",
+    "value": {
+      "en-ca": "Firefox",
+      "fr-ca": "Firefox"
+    }
+  }
+]

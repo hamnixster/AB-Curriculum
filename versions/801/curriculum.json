@@ -1,0 +1,1416 @@
+[
+  {
+    "code": "FARART-OI1",
+    "parentCurriculumCode": "",
+    "categoryCode": "FARART",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Foundational Elements and Principles: Visual arts literacy is developed through knowledge and application of foundational elements and principles.",
+      "fr-ca": "Éléments et principes fondamentaux : En arts visuels, la littératie est développée par la connaissance et l’application des éléments et principes fondamentaux."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "FARARTK",
+      "FARART1",
+      "FARART2",
+      "FARART3",
+      "FARART4",
+      "FARART5",
+      "FARART6"
+    ],
+    "sortOrder": 0
+  },
+  {
+    "code": "FARART-OI2",
+    "parentCurriculumCode": "",
+    "categoryCode": "FARART",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Creating and Presenting: Ideas can be represented through artworks that draw upon foundational visual arts knowledge.",
+      "fr-ca": "Créer et présenter : Les idées peuvent être représentées par des œuvres d’art qui s’appuient sur les connaissances fondamentales des arts visuels."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "FARARTK",
+      "FARART1",
+      "FARART2",
+      "FARART3",
+      "FARART4",
+      "FARART5",
+      "FARART6"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "code": "FARART-OI3",
+    "parentCurriculumCode": "",
+    "categoryCode": "FARART",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Appreciation: Recognizing beauty, goodness, and truth in visual arts can be developed by understanding the complexity and richness of great artworks, the artists who create them, and the historical and cultural contexts from which they originate.",
+      "fr-ca": "Appréciation : La reconnaissance de la beauté, de la bonté et de la vérité à travers les arts visuels peut être développée en comprenant la complexité et de la richesse des grandes œuvres d’art, les artistes qui les créent, et les contextes historiques et culturels dont elles sont issues."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "FARARTK",
+      "FARART1",
+      "FARART2",
+      "FARART3",
+      "FARART4",
+      "FARART5",
+      "FARART6"
+    ],
+    "sortOrder": 2
+  },
+  {
+    "code": "FARDAN-OI1",
+    "parentCurriculumCode": "",
+    "categoryCode": "FARDAN",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Foundational Elements and Principles: Dance literacy is developed through knowledge and application of foundational elements and principles.",
+      "fr-ca": "Éléments et principes fondamentaux : En danse, la littératie est développée par la connaissance et l’application des éléments et principes fondamentaux."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "FARDANK",
+      "FARDAN1",
+      "FARDAN2",
+      "FARDAN3",
+      "FARDAN4",
+      "FARDAN5",
+      "FARDAN6"
+    ],
+    "sortOrder": 0
+  },
+  {
+    "code": "FARDAN-OI2",
+    "parentCurriculumCode": "",
+    "categoryCode": "FARDAN",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Creating and presenting: Ideas can be represented through movement and dance that draw upon foundational knowledge.",
+      "fr-ca": "Créer et présenter : Les idées peuvent être représentées par le mouvement et la danse qui s’appuient sur des connaissances fondamentales."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "FARDANK",
+      "FARDAN1",
+      "FARDAN2",
+      "FARDAN3",
+      "FARDAN4",
+      "FARDAN5",
+      "FARDAN6"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "code": "FARDAN-OI3",
+    "parentCurriculumCode": "",
+    "categoryCode": "FARDAN",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Appreciation: Recognizing beauty, goodness, and truth in dance can be developed by understanding the complexity and richness of great works of dance, the artists who create and perform them, and the historical and cultural contexts from which they originate.",
+      "fr-ca": "Appréciation : La reconnaissance de la beauté, de la bonté et de la vérité à travers la danse peut être développée en comprenant la complexité et de la richesse des grandes œuvres d’art, les artistes qui les créent, et les contextes historiques et culturels dont elles sont issues."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "FARDANK",
+      "FARDAN1",
+      "FARDAN2",
+      "FARDAN3",
+      "FARDAN4",
+      "FARDAN5",
+      "FARDAN6"
+    ],
+    "sortOrder": 2
+  },
+  {
+    "code": "FARDMA-OI1",
+    "parentCurriculumCode": "",
+    "categoryCode": "FARDMA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Foundational Elements: Drama literacy is developed through knowledge and application of dramatic processes.",
+      "fr-ca": "Éléments de base : En art dramatique, la littératie se développe par la connaissance et l’application des processus dramatiques."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "FARDMAK",
+      "FARDMA1",
+      "FARDMA2",
+      "FARDMA3",
+      "FARDMA4",
+      "FARDMA5",
+      "FARDMA6"
+    ],
+    "sortOrder": 0
+  },
+  {
+    "code": "FARDMA-OI2",
+    "parentCurriculumCode": "",
+    "categoryCode": "FARDMA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Creating and Presenting: Ideas can be represented dramatically through artworks that draw upon foundational knowledge.",
+      "fr-ca": "Créer et présenter : Les idées peuvent être représentées de manière dramatique par des œuvres d’art qui s’appuient sur des connaissances fondamentales."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "FARDMAK",
+      "FARDMA1",
+      "FARDMA2",
+      "FARDMA3",
+      "FARDMA4",
+      "FARDMA5",
+      "FARDMA6"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "code": "FARDMA-OI3",
+    "parentCurriculumCode": "",
+    "categoryCode": "FARDMA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Appreciation: Recognizing beauty, goodness, and truth in drama can be developed by understanding the complexity and richness of great dramatic works, the artists who create and perform them, and the historical and cultural contexts from which they originate.",
+      "fr-ca": "Appréciation : La reconnaissance de la beauté, de la bonté et de la vérité à travers l’art dramatique peut être développée en comprenant la complexité et la richesse des grandes œuvres d’art, les artistes qui les créent ainsi que les contextes historiques et culturels dont elles sont issues."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "FARDMAK",
+      "FARDMA1",
+      "FARDMA2",
+      "FARDMA3",
+      "FARDMA4",
+      "FARDMA5",
+      "FARDMA6"
+    ],
+    "sortOrder": 2
+  },
+  {
+    "code": "FARGEN-OI1",
+    "parentCurriculumCode": "",
+    "categoryCode": "FARGEN",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Foundational Elements: Music literacy is developed through knowledge and application of foundational elements.",
+      "fr-ca": "Éléments fondamentaux : En musique, les compétences se développent par la connaissance et l’application des éléments fondamentaux."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "FARGENK",
+      "FARGEN1",
+      "FARGEN2",
+      "FARGEN3",
+      "FARGEN4",
+      "FARGEN5",
+      "FARGEN6"
+    ],
+    "sortOrder": 0
+  },
+  {
+    "code": "FARGEN-OI2",
+    "parentCurriculumCode": "",
+    "categoryCode": "FARGEN",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Creating and Presenting: Ideas can be represented musically through artworks that draw upon foundational knowledge.",
+      "fr-ca": "Créer et présenter : Les idées peuvent être représentées musicalement par des œuvres d’art qui s’appuient sur des connaissances fondamentales."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "FARGENK",
+      "FARGEN1",
+      "FARGEN2",
+      "FARGEN3",
+      "FARGEN4",
+      "FARGEN5",
+      "FARGEN6"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "code": "FARGEN-OI3",
+    "parentCurriculumCode": "",
+    "categoryCode": "FARGEN",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Appreciation: Recognizing beauty, goodness, and truth in music can be developed by understanding the complexity and richness of great works of music, the artists who create and perform them, and the historical and cultural contexts from which they originate.",
+      "fr-ca": "Appréciation : La reconnaissance de la beauté, de la bonté et de la vérité dans la musique peut être développée par la compréhension de la complexité et de la richesse des grandes œuvres musicales, des artistes qui les créent et les interprètent, et des contextes historiques et culturels dont elles sont issues."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "FARGENK",
+      "FARGEN1",
+      "FARGEN2",
+      "FARGEN3",
+      "FARGEN4",
+      "FARGEN5",
+      "FARGEN6"
+    ],
+    "sortOrder": 2
+  },
+  {
+    "code": "LANENG-OI1",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANENG",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Text Forms and Structure: Identifying and applying text forms and structures improves understanding of content, literary style, and our rich language traditions.",
+      "fr-ca": "Text Forms and Structure: Identifying and applying text forms and structures improves understanding of content, literary style, and our rich language traditions."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANENGK",
+      "LANENG1",
+      "LANENG2",
+      "LANENG3",
+      "LANENG4",
+      "LANENG5",
+      "LANENG6"
+    ],
+    "sortOrder": 0
+  },
+  {
+    "code": "LANENG-OI2",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANENG",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Oral Language: Listening and speaking form the foundation for literacy development and improve communication, collaboration, and respectful mutual understanding.",
+      "fr-ca": "Oral Language: Listening and speaking form the foundation for literacy development and improve communication, collaboration, and respectful mutual understanding."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANENGK",
+      "LANENG1",
+      "LANENG2",
+      "LANENG3",
+      "LANENG4",
+      "LANENG5",
+      "LANENG6"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "code": "LANENG-OI3",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANENG",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Vocabulary: Communication and comprehension are improved by understanding word meaning and structures.",
+      "fr-ca": "Vocabulary: Communication and comprehension are improved by understanding word meaning and structures."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANENGK",
+      "LANENG1",
+      "LANENG2",
+      "LANENG3",
+      "LANENG4",
+      "LANENG5",
+      "LANENG6"
+    ],
+    "sortOrder": 2
+  },
+  {
+    "code": "LANENG-OI4",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANENG",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Phonological Awareness: Foundational literacy is supported by the ability to identify and manipulate sounds in oral language.",
+      "fr-ca": "Phonological Awareness: Foundational literacy is supported by the ability to identify and manipulate sounds in oral language."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANENGK",
+      "LANENG1",
+      "LANENG2"
+    ],
+    "sortOrder": 3
+  },
+  {
+    "code": "LANENG-OI5",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANENG",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Phonics: Foundational literacy is supported by understanding relationships between sounds in oral language and the letters that represent them.",
+      "fr-ca": "Phonics: Foundational literacy is supported by understanding relationships between sounds in oral language and the letters that represent them."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANENGK",
+      "LANENG1",
+      "LANENG2",
+      "LANENG3"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "code": "LANENG-OI6",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANENG",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Fluency: Comprehension and literary appreciation are improved by the ability to read a range of texts accurately, automatically, and with expression.",
+      "fr-ca": "Fluency: Comprehension and literary appreciation are improved by the ability to read a range of texts accurately, automatically, and with expression."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANENGK",
+      "LANENG1",
+      "LANENG2",
+      "LANENG3",
+      "LANENG4"
+    ],
+    "sortOrder": 5
+  },
+  {
+    "code": "LANENG-OI7",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANENG",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Comprehension: Text comprehension is supported through applying varied strategies and processes, and considering both particular contexts and universal themes.",
+      "fr-ca": "Comprehension: Text comprehension is supported through applying varied strategies and processes, and considering both particular contexts and universal themes."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANENGK",
+      "LANENG1",
+      "LANENG2",
+      "LANENG3",
+      "LANENG4",
+      "LANENG5",
+      "LANENG6"
+    ],
+    "sortOrder": 6
+  },
+  {
+    "code": "LANENG-OI8",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANENG",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Writing: Ideas and information can be articulated accurately and imaginatively through the use of writing processes and an understanding of the author’s craft",
+      "fr-ca": "Writing: Ideas and information can be articulated accurately and imaginatively through the use of writing processes and an understanding of the author’s craft"
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANENGK",
+      "LANENG1",
+      "LANENG2",
+      "LANENG3",
+      "LANENG4",
+      "LANENG5",
+      "LANENG6"
+    ],
+    "sortOrder": 7
+  },
+  {
+    "code": "LANENG-OI9",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANENG",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Conventions: Understanding grammar, spelling, and punctuation makes it easier to communicate clearly, to organize thinking, and to use language for desired effects.",
+      "fr-ca": "Conventions: Understanding grammar, spelling, and punctuation makes it easier to communicate clearly, to organize thinking, and to use language for desired effects."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANENGK",
+      "LANENG1",
+      "LANENG2",
+      "LANENG3",
+      "LANENG4",
+      "LANENG5",
+      "LANENG6"
+    ],
+    "sortOrder": 8
+  },
+  {
+    "code": "LANFRA-OI1",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANFRA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "<strong>L’organisation des textes : </strong>Différents genres de textes sont utilisés pour comprendre et exprimer des idées, des perspectives sur le monde et des informations culturelles.",
+      "fr-ca": "<strong>L’organisation des textes :</strong> Différents genres de textes sont utilisés pour comprendre et exprimer des idées, des perspectives sur le monde et des informations culturelles."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANFRAK",
+      "LANFRA1",
+      "LANFRA2",
+      "LANFRA3",
+      "LANFRA4",
+      "LANFRA5",
+      "LANFRA6"
+    ],
+    "sortOrder": 0
+  },
+  {
+    "code": "LANFRA-OI2",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANFRA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "<strong>La communication orale :</strong> L’expression orale et l’écoute favorisent le développement de la langue, des relations positives et des liens durables dans l’échange, le partage et le respect de l’autre.",
+      "fr-ca": "<strong>La communication orale :</strong> L’expression orale et l’écoute favorisent le développement de la langue, des relations positives et des liens durables dans l’échange, le partage et le respect de l’autre."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANFRAK",
+      "LANFRA1",
+      "LANFRA2",
+      "LANFRA3",
+      "LANFRA4",
+      "LANFRA5",
+      "LANFRA6"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "code": "LANFRA-OI3",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANFRA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "<strong>Le vocabulaire :</strong> La compréhension du sens et de la formation des mots facilite la communication orale, la lecture et l’écriture.",
+      "fr-ca": "<strong>Le vocabulaire :</strong> La compréhension du sens et de la formation des mots facilite la communication orale, la lecture et l’écriture."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANFRAK",
+      "LANFRA1",
+      "LANFRA2",
+      "LANFRA3",
+      "LANFRA4",
+      "LANFRA5",
+      "LANFRA6"
+    ],
+    "sortOrder": 2
+  },
+  {
+    "code": "LANFRA-OI4",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANFRA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "<strong>La conscience phonologique :</strong> Les fondements de la littératie sont appuyés par l’habileté d’identifier et de manipuler les sons de la langue orale.",
+      "fr-ca": "<strong>La conscience phonologique :</strong> Les fondements de la littératie sont appuyés par l’habileté d’identifier et de manipuler les sons de la langue orale."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANFRAK",
+      "LANFRA1",
+      "LANFRA2"
+    ],
+    "sortOrder": 3
+  },
+  {
+    "code": "LANFRA-OI5",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANFRA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "<strong>La phonographie :</strong> La compréhension des relations entre les phonèmes et les graphèmes constitue un pilier de la littératie.",
+      "fr-ca": "<strong>La phonographie :</strong> La compréhension des relations entre les phonèmes et les graphèmes constitue un pilier de la littératie."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANFRAK",
+      "LANFRA1",
+      "LANFRA2",
+      "LANFRA3",
+      "LANFRA4"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "code": "LANFRA-OI6",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANFRA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "<strong>La fluidité en lecture :</strong> Le développement de la fluidité favorise la compréhension en lecture.",
+      "fr-ca": "<strong>La fluidité en lecture :</strong> Le développement de la fluidité favorise la compréhension en lecture."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANFRAK",
+      "LANFRA1",
+      "LANFRA2",
+      "LANFRA3",
+      "LANFRA4",
+      "LANFRA5",
+      "LANFRA6"
+    ],
+    "sortOrder": 5
+  },
+  {
+    "code": "LANFRA-OI7",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANFRA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "<strong>La compréhension :</strong> La compréhension des idées, des perspectives, des thèmes universels et des cultures dans les textes est appuyée par l’application de stratégies et de processus de lecture.",
+      "fr-ca": "<strong>La compréhension :</strong> La compréhension des idées, des perspectives, des thèmes universels et des cultures dans les textes est appuyée par l’application de stratégies et de processus de lecture."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANFRAK",
+      "LANFRA1",
+      "LANFRA2",
+      "LANFRA3",
+      "LANFRA4",
+      "LANFRA5",
+      "LANFRA6"
+    ],
+    "sortOrder": 6
+  },
+  {
+    "code": "LANFRA-OI8",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANFRA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "<strong>L’écriture :</strong> L’écriture constitue un moyen d’exprimer sa créativité, de communiquer de l’information et de partager ses idées dans des contextes variés.",
+      "fr-ca": "<strong>L’écriture :</strong> L’écriture constitue un moyen d’exprimer sa créativité, de communiquer de l’information et de partager ses idées dans des contextes variés."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANFRAK",
+      "LANFRA1",
+      "LANFRA2",
+      "LANFRA3",
+      "LANFRA4",
+      "LANFRA5",
+      "LANFRA6"
+    ],
+    "sortOrder": 7
+  },
+  {
+    "code": "LANFRA-OI9",
+    "parentCurriculumCode": "",
+    "categoryCode": "LANFRA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "<strong>La grammaire :</strong> La communication efficace est appuyée par l’application des règles de grammaire.",
+      "fr-ca": "<strong>La grammaire :</strong> La communication efficace est appuyée par l’application des règles de grammaire."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "LANFRAK",
+      "LANFRA1",
+      "LANFRA2",
+      "LANFRA3",
+      "LANFRA4",
+      "LANFRA5",
+      "LANFRA6"
+    ],
+    "sortOrder": 8
+  },
+  {
+    "code": "MAT-OI1",
+    "parentCurriculumCode": "",
+    "categoryCode": "MAT",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Number: Quantity is measured with numbers that enable counting, labelling, comparing, and operating.",
+      "fr-ca": "Nombre : La quantité est mesurée par des nombres qui permettent de compter, d’étiqueter, de comparer et d’opérer."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "MATK",
+      "MAT1",
+      "MAT2",
+      "MAT3",
+      "MAT4",
+      "MAT5",
+      "MAT6"
+    ],
+    "sortOrder": 0
+  },
+  {
+    "code": "MAT-OI2",
+    "parentCurriculumCode": "",
+    "categoryCode": "MAT",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Algebra: Equations express relationships between quantities.",
+      "fr-ca": "Algèbre : Les équations expriment les relations entre les quantités."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "MAT3",
+      "MAT4",
+      "MAT5",
+      "MAT6"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "code": "MAT-OI3",
+    "parentCurriculumCode": "",
+    "categoryCode": "MAT",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Geometry: Shapes are defined and related by geometric attributes.",
+      "fr-ca": "Géométrie : les figures sont définies et liées par des attributs géométriques."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "MATK",
+      "MAT1",
+      "MAT2",
+      "MAT3",
+      "MAT4",
+      "MAT5",
+      "MAT6"
+    ],
+    "sortOrder": 2
+  },
+  {
+    "code": "MAT-OI4",
+    "parentCurriculumCode": "",
+    "categoryCode": "MAT",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Coordinate Geometry: Location and movement of objects in space can be communicated using a coordinate grid.",
+      "fr-ca": "Géométrie analytique : Le lieu et le mouvement des objets dans l’espace peuvent être communiqués en utilisant une grille et des coordonnées."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "MAT5",
+      "MAT6"
+    ],
+    "sortOrder": 3
+  },
+  {
+    "code": "MAT-OI5",
+    "parentCurriculumCode": "",
+    "categoryCode": "MAT",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Measurement: Attributes such as length, area, volume, and angle are quantified by measurement.",
+      "fr-ca": "Mesure : Les attributs tels que la longueur, l’aire, le volume et l’angle sont quantifiés par des mesures."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "MATK",
+      "MAT1",
+      "MAT2",
+      "MAT3",
+      "MAT4",
+      "MAT5",
+      "MAT6"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "code": "MAT-OI6",
+    "parentCurriculumCode": "",
+    "categoryCode": "MAT",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Patterns: Awareness of patterns supports problem solving in various situations.",
+      "fr-ca": "Suites : La conscience de régularités favorise la résolution des problèmes dans différentes situations."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "MATK",
+      "MAT1",
+      "MAT2",
+      "MAT3",
+      "MAT4",
+      "MAT5",
+      "MAT6"
+    ],
+    "sortOrder": 5
+  },
+  {
+    "code": "MAT-OI7",
+    "parentCurriculumCode": "",
+    "categoryCode": "MAT",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Time: Duration is described and quantified with time.",
+      "fr-ca": "Temps : La durée est décrite et quantifiée par le temps."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "MATK",
+      "MAT1",
+      "MAT2",
+      "MAT3",
+      "MAT4"
+    ],
+    "sortOrder": 6
+  },
+  {
+    "code": "MAT-OI8",
+    "parentCurriculumCode": "",
+    "categoryCode": "MAT",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Statistics: The science of collecting, analyzing, visualizing, and interpreting data can inform understanding and decision making.",
+      "fr-ca": "Statistique : La science de la collecte, de l’analyse, de la visualisation et de l’interprétation de données peut éclairer la compréhension et la prise de décision."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "MAT1",
+      "MAT2",
+      "MAT3",
+      "MAT4",
+      "MAT5",
+      "MAT6"
+    ],
+    "sortOrder": 7
+  },
+  {
+    "code": "OLAFLA-OI1",
+    "parentCurriculumCode": "",
+    "categoryCode": "OLAFLA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "La communication orale : L’écoute et l’expression orale favorisent le développement de la langue, des relations positives et de la collaboration.",
+      "fr-ca": "La communication orale : L’écoute et l’expression orale favorisent le développement de la langue, des relations positives et de la collaboration."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "OLAFLAK",
+      "OLAFLA1",
+      "OLAFLA2",
+      "OLAFLA3",
+      "OLAFLA4",
+      "OLAFLA5",
+      "OLAFLA6"
+    ],
+    "sortOrder": 0
+  },
+  {
+    "code": "OLAFLA-OI2",
+    "parentCurriculumCode": "",
+    "categoryCode": "OLAFLA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Le vocabulaire : La compréhension du sens et de la formation des mots facilite la communication orale, la lecture et l’écriture.",
+      "fr-ca": "Le vocabulaire : La compréhension du sens et de la formation des mots facilite la communication orale, la lecture et l’écriture."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "OLAFLAK",
+      "OLAFLA1",
+      "OLAFLA2",
+      "OLAFLA3",
+      "OLAFLA4",
+      "OLAFLA5",
+      "OLAFLA6"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "code": "OLAFLA-OI3",
+    "parentCurriculumCode": "",
+    "categoryCode": "OLAFLA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "La conscience phonologique : L’habileté d’identifier et de manipuler les sons de la langue orale appuie l’apprentissage du vocabulaire, de la lecture et de l’écriture.",
+      "fr-ca": "La conscience phonologique : L’habileté d’identifier et de manipuler les sons de la langue orale appuie l’apprentissage du vocabulaire, de la lecture et de l’écriture."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "OLAFLAK",
+      "OLAFLA1",
+      "OLAFLA2"
+    ],
+    "sortOrder": 2
+  },
+  {
+    "code": "OLAFLA-OI4",
+    "parentCurriculumCode": "",
+    "categoryCode": "OLAFLA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "La phonographie : La compréhension des relations entre les phonèmes et les lettres favorise le développement de l’oral, de la lecture et de l’écriture.",
+      "fr-ca": "La phonographie : La compréhension des relations entre les phonèmes et les lettres favorise le développement de l’oral, de la lecture et de l’écriture."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "OLAFLAK",
+      "OLAFLA1",
+      "OLAFLA2",
+      "OLAFLA3",
+      "OLAFLA4"
+    ],
+    "sortOrder": 3
+  },
+  {
+    "code": "OLAFLA-OI5",
+    "parentCurriculumCode": "",
+    "categoryCode": "OLAFLA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "L’organisation des textes : Différents genres de textes sont utilisés pour comprendre et exprimer des idées, des perspectives sur le monde et des informations culturelles.",
+      "fr-ca": "L’organisation des textes : Différents genres de textes sont utilisés pour comprendre et exprimer des idées, des perspectives sur le monde et des informations culturelles."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "OLAFLAK",
+      "OLAFLA1",
+      "OLAFLA2",
+      "OLAFLA3",
+      "OLAFLA4",
+      "OLAFLA5",
+      "OLAFLA6"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "code": "OLAFLA-OI6",
+    "parentCurriculumCode": "",
+    "categoryCode": "OLAFLA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "La compréhension en lecture : La compréhension des idées, des perspectives, des thèmes universels et des cultures dans les textes est appuyée par l’application de stratégies et de processus.",
+      "fr-ca": "La compréhension en lecture : La compréhension des idées, des perspectives, des thèmes universels et des cultures dans les textes est appuyée par l’application de stratégies et de processus."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "OLAFLAK",
+      "OLAFLA1",
+      "OLAFLA2",
+      "OLAFLA3",
+      "OLAFLA4",
+      "OLAFLA5",
+      "OLAFLA6"
+    ],
+    "sortOrder": 5
+  },
+  {
+    "code": "OLAFLA-OI7",
+    "parentCurriculumCode": "",
+    "categoryCode": "OLAFLA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "La fluidité en lecture : Le développement de la fluidité en lecture favorise la compréhension et l’expression orale et écrite.",
+      "fr-ca": "La fluidité en lecture : Le développement de la fluidité en lecture favorise la compréhension et l’expression orale et écrite."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "OLAFLAK",
+      "OLAFLA1",
+      "OLAFLA2",
+      "OLAFLA3",
+      "OLAFLA4",
+      "OLAFLA5",
+      "OLAFLA6"
+    ],
+    "sortOrder": 6
+  },
+  {
+    "code": "OLAFLA-OI8",
+    "parentCurriculumCode": "",
+    "categoryCode": "OLAFLA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "L’écriture : L’écriture et la créativité permettent de partager des idées et de l’information dans divers contextes.",
+      "fr-ca": "L’écriture : L’écriture et la créativité permettent de partager des idées et de l’information dans divers contextes."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "OLAFLAK",
+      "OLAFLA1",
+      "OLAFLA2",
+      "OLAFLA3",
+      "OLAFLA4",
+      "OLAFLA5",
+      "OLAFLA6"
+    ],
+    "sortOrder": 7
+  },
+  {
+    "code": "OLAFLA-OI9",
+    "parentCurriculumCode": "",
+    "categoryCode": "OLAFLA",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "La grammaire : La compréhension et l’application de la grammaire favorisent une compréhension et une expression efficaces des idées à l’oral et à l’écrit.",
+      "fr-ca": "La grammaire : La compréhension et l’application de la grammaire favorisent une compréhension et une expression efficaces des idées à l’oral et à l’écrit."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "OLAFLAK",
+      "OLAFLA1",
+      "OLAFLA2",
+      "OLAFLA3",
+      "OLAFLA4",
+      "OLAFLA5",
+      "OLAFLA6"
+    ],
+    "sortOrder": 8
+  },
+  {
+    "code": "PDE-OI1",
+    "parentCurriculumCode": "",
+    "categoryCode": "PDE",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Active Living: A healthy way of life includes regular practice of meaningful active living.",
+      "fr-ca": "Vie active : Un mode de vie sain comprend la pratique régulière d’une vie active pleine de sens."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "PDEK",
+      "PDE1",
+      "PDE2",
+      "PDE3",
+      "PDE4",
+      "PDE5",
+      "PDE6"
+    ],
+    "sortOrder": 0
+  },
+  {
+    "code": "PDE-OI2",
+    "parentCurriculumCode": "",
+    "categoryCode": "PDE",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Movement Skill Development: A healthy way of life includes regular movement.",
+      "fr-ca": "Développement des habiletés motrices : Un mode de vie sain comprend un mouvement régulier."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "PDEK",
+      "PDE1",
+      "PDE2",
+      "PDE3",
+      "PDE4",
+      "PDE5",
+      "PDE6"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "code": "PDE-OI3",
+    "parentCurriculumCode": "",
+    "categoryCode": "PDE",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Character Development: Exploration of life opportunities and virtues develops resiliency and personal talents and promotes lifelong learning.",
+      "fr-ca": "Développement du caractère : L’exploration des occasions offertes par la vie et des vertus développe la résilience et les talents personnels, et favorise l’apprentissage tout au long de la vie."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "PDEK",
+      "PDE1",
+      "PDE2",
+      "PDE3",
+      "PDE4",
+      "PDE5",
+      "PDE6"
+    ],
+    "sortOrder": 2
+  },
+  {
+    "code": "PDE-OI4",
+    "parentCurriculumCode": "",
+    "categoryCode": "PDE",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Safety: A lifetime of optimal well-being is supported by prioritizing health and safety.",
+      "fr-ca": "Sécurité : La priorité accordée à la santé et à la sécurité favorise un état de bienêtre idéal tout au long de la vie."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "PDEK",
+      "PDE1",
+      "PDE2",
+      "PDE3",
+      "PDE4",
+      "PDE5",
+      "PDE6"
+    ],
+    "sortOrder": 3
+  },
+  {
+    "code": "PDE-OI5",
+    "parentCurriculumCode": "",
+    "categoryCode": "PDE",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Healthy Eating: A lifetime of optimal well-being and physical wellness is supported by prioritizing nutrition and healthy eating.",
+      "fr-ca": "Alimentation saine : La priorité accordée à la nutrition et à la saine alimentation favorise le maintien d’un état de bienêtre et d’un état de santé physique idéaux tout au long de la vie."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "PDEK",
+      "PDE1",
+      "PDE2",
+      "PDE3",
+      "PDE4",
+      "PDE5",
+      "PDE6"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "code": "PDE-OI6",
+    "parentCurriculumCode": "",
+    "categoryCode": "PDE",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Healthy Relationships: Personal well-being is supported through positive relationships built on communication, collaboration, empathy, and respect.",
+      "fr-ca": "Relations saines : Le bienêtre personnel est favorisé en nouant des relations positives fondées sur la communication, la collaboration, l’empathie et le respect."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "PDEK",
+      "PDE1",
+      "PDE2",
+      "PDE3",
+      "PDE4",
+      "PDE5",
+      "PDE6"
+    ],
+    "sortOrder": 5
+  },
+  {
+    "code": "PDE-OI7",
+    "parentCurriculumCode": "",
+    "categoryCode": "PDE",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Growth and Development: Decision making that optimizes personal health and well-being is informed by understanding growth and development.",
+      "fr-ca": "Croissance et développement : La prise des décisions qui permettent de jouir d’un état de santé et d’un bienêtre personnels idéaux est guidée par la compréhension de la croissance et du développement."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "PDEK",
+      "PDE1",
+      "PDE2",
+      "PDE3",
+      "PDE4",
+      "PDE5",
+      "PDE6"
+    ],
+    "sortOrder": 6
+  },
+  {
+    "code": "SCI-OI1",
+    "parentCurriculumCode": "",
+    "categoryCode": "SCI",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Matter: Understandings of the physical world are deepened through investigating matter and energy.",
+      "fr-ca": "Matière : La compréhension du monde physique est approfondie grâce à l’étude de la matière et de l’énergie."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "SCIK",
+      "SCI1",
+      "SCI2",
+      "SCI3",
+      "SCI4",
+      "SCI5",
+      "SCI6"
+    ],
+    "sortOrder": 0
+  },
+  {
+    "code": "SCI-OI2",
+    "parentCurriculumCode": "",
+    "categoryCode": "SCI",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Energy: Understandings of the physical world are deepened through investigating matter and energy.",
+      "fr-ca": "Énergie : La compréhension du monde physique est approfondie grâce à l’étude de la matière et de l’énergie."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "SCIK",
+      "SCI1",
+      "SCI2",
+      "SCI3",
+      "SCI4",
+      "SCI5",
+      "SCI6"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "code": "SCI-OI3",
+    "parentCurriculumCode": "",
+    "categoryCode": "SCI",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Earth Systems: Understandings of the living world, Earth, and space are deepened through investigating natural systems and their interactions.",
+      "fr-ca": "Systèmes de la Terre : La compréhension du monde vivant, de la Terre et de l’espace est approfondie par l’étude des systèmes naturels et de leurs interactions."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "SCIK",
+      "SCI1",
+      "SCI2",
+      "SCI3",
+      "SCI4",
+      "SCI5",
+      "SCI6"
+    ],
+    "sortOrder": 2
+  },
+  {
+    "code": "SCI-OI4",
+    "parentCurriculumCode": "",
+    "categoryCode": "SCI",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Living Systems: Understandings of the living world, Earth, and space are deepened through investigating natural systems and their interactions.",
+      "fr-ca": "Systèmes vivants : La compréhension du monde vivant, de la Terre et de l’espace est approfondie par l’étude des systèmes naturels et de leurs interactions."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "SCI1",
+      "SCI2",
+      "SCI3",
+      "SCI4",
+      "SCI5",
+      "SCI6"
+    ],
+    "sortOrder": 3
+  },
+  {
+    "code": "SCI-OI5",
+    "parentCurriculumCode": "",
+    "categoryCode": "SCI",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Space: Understandings of the living world, Earth, and space are deepened through investigating natural systems and their interactions.",
+      "fr-ca": "Espace : La compréhension du monde vivant, de la Terre et de l’espace est approfondie par l’étude des systèmes naturels et de leurs interactions."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "SCI4",
+      "SCI5",
+      "SCI6"
+    ],
+    "sortOrder": 4
+  },
+  {
+    "code": "SCI-OI6",
+    "parentCurriculumCode": "",
+    "categoryCode": "SCI",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Computer Science: Problem solving and scientific inquiry are developed through the knowledgeable application of creativity, design, and computational thinking.",
+      "fr-ca": "Informatique : La résolution de problèmes et la recherche scientifique sont élaborées par l’application éclairée de la créativité, de la conception et de la pensée informatique.<br/><br/>"
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "SCIK",
+      "SCI1",
+      "SCI2",
+      "SCI3",
+      "SCI4",
+      "SCI5",
+      "SCI6"
+    ],
+    "sortOrder": 5
+  },
+  {
+    "code": "SCI-OI7",
+    "parentCurriculumCode": "",
+    "categoryCode": "SCI",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Scientific Methods: Investigation of the physical world is enhanced through the use of scientific methods that attempt to remove human biases and increase objectivity.",
+      "fr-ca": "Méthodes scientifiques : L’étude du monde physique est améliorée par l’utilisation de méthodes scientifiques qui tentent d’éliminer les préjugés humains et d’accroitre l’objectivité."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "SCI1",
+      "SCI2",
+      "SCI3",
+      "SCI4",
+      "SCI5",
+      "SCI6"
+    ],
+    "sortOrder": 6
+  },
+  {
+    "code": "SSS-OI1",
+    "parentCurriculumCode": "",
+    "categoryCode": "SSS",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "History: Understanding the history of our province, nation, and world and developing cultural literacy allow us to appreciate the varied richness of our shared human inheritance of original writings, artifacts, stories, beliefs, ideas and great cultural and artistic achievements from different times and places. Lessons of the past and knowledge of diverse experiences help us overcome ignorance and prejudice and recognize our common humanity and dignity.",
+      "fr-ca": "Histoire : Comprendre l’histoire de notre province, de notre nation et du monde et acquérir une littératie culturelle nous permettent d’apprécier la richesse variée de notre héritage humain commun d’écrits, d’artéfacts, d’histoires, de croyances, d’idées et de grandes réalisations culturelles et artistiques originaux de différentes époques et de différents lieux. Les leçons du passé et la connaissance de diverses expériences nous aident à surmonter l’ignorance et les préjugés et à reconnaitre notre humanité et notre dignité communes."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "SSSK",
+      "SSS1",
+      "SSS2",
+      "SSS3",
+      "SSS4",
+      "SSS5",
+      "SSS6"
+    ],
+    "sortOrder": 0
+  },
+  {
+    "code": "SSS-OI2",
+    "parentCurriculumCode": "",
+    "categoryCode": "SSS",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Civics: Canada’s constitutional monarchy, democracy, rule of law, and citizenship are understood through knowledge of the origins and development of various contrasting political traditions and ideas.",
+      "fr-ca": "Éducation civique : Comprendre pourquoi les sociétés politiques se forment, comment nous sommes gouvernés et comment les décisions et les mesures sont prises, en s’appuyant sur une connaissance approfondie de diverses traditions et idées politiques."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "SSSK",
+      "SSS1",
+      "SSS2",
+      "SSS3",
+      "SSS4",
+      "SSS5",
+      "SSS6"
+    ],
+    "sortOrder": 1
+  },
+  {
+    "code": "SSS-OI3",
+    "parentCurriculumCode": "",
+    "categoryCode": "SSS",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Geography: Understanding the world we live in, and the relationship of people and places, is supported by knowing features of the natural and political world, such as oceans, mountain ranges, and boundaries.",
+      "fr-ca": "Géographie : La compréhension du monde dans lequel nous vivons, et des relations entre les personnes et les lieux, s’appuie sur la connaissance des caractéristiques des environnements naturel et politique tels que les océans, les chaines de montagnes et les frontières."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "SSSK",
+      "SSS1",
+      "SSS2",
+      "SSS3",
+      "SSS4",
+      "SSS5",
+      "SSS6"
+    ],
+    "sortOrder": 2
+  },
+  {
+    "code": "SSS-OI4",
+    "parentCurriculumCode": "",
+    "categoryCode": "SSS",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Economics: Knowledge of basic economic concepts, such as needs, wants, resources, labour, innovation, trade, and capital, will build toward an understanding of economic systems.",
+      "fr-ca": "Économie : La connaissance des concepts économiques de base, tels que les besoins, les souhaits, les ressources, le travail, l’innovation, le commerce et les finances, permettra de mieux comprendre les systèmes économiques."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "SSSK",
+      "SSS1",
+      "SSS2",
+      "SSS3",
+      "SSS4",
+      "SSS5",
+      "SSS6"
+    ],
+    "sortOrder": 3
+  },
+  {
+    "code": "SSS-OI5",
+    "parentCurriculumCode": "",
+    "categoryCode": "SSS",
+    "typeCode": "OI",
+    "keywordCodes": [],
+    "contents": {
+      "en-ca": "Financial Literacy: Responsible choices to build a thriving life for self, family, and society are supported by knowledge, skills, and understanding of earning, investing, spending, borrowing, and financial security.",
+      "fr-ca": "Littératie financière : Les choix responsables visant à assurer une vie prospère pour soi-même, sa famille et la société sont soutenus par des habiletés et une compréhension des notions de gain, d'investissement, de dépenses, d'emprunt et de sécurité financière."
+    },
+    "curriculums": [],
+    "courseCodes": [
+      "SSSK",
+      "SSS1",
+      "SSS2",
+      "SSS3",
+      "SSS4",
+      "SSS5",
+      "SSS6"
+    ],
+    "sortOrder": 4
+  }
+]
