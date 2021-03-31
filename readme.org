@@ -1,4 +1,15 @@
-* Differences Between 03-29 and 03-30
+* What is this?
+** The Alberta government, on March 29, 2021, released a draft curriculum for Kindergarten to Grade 6
+   Behind the scenes, they have been making small changes.
+   This was pointed out with the change below.
+
+   There may have been other changes in the meantime, as the version was bumped from 795 to 799.
+
+   When 795 was archived for this project, not all known files were being accessed.
+
+   In future, more of the changes should be detected.
+
+* Differences Between 795 and 799
 ** Before
 *** Social Studies 6
 **** How do Canada and the United States compare in their histories and policies relating to religious and ethnic pluralism?
