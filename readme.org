@@ -1,0 +1,15 @@
+* Differences Between 03-29 and 03-30
+** Before
+*** Social Studies 6
+**** How do Canada and the United States compare in their histories and policies relating to religious and ethnic pluralism?
+***** en-ca
+      Freedom of religious practice is encouraged, but acceptance comes less easily—in part, because newcomers bring new and unfamiliar religious faiths and practices.
+***** fr-ca
+      La liberté de pratique religieuse est encouragée, mais l’acceptation est moins facile, en partie parce que les nouveaux arrivants apportent des croyances et des pratiques religieuses nouvelles et peu familières.
+** After
+*** Social Studies 6
+**** How do Canada and the United States compare in their histories and policies relating to religious and ethnic pluralism?
+***** en-ca
+      Freedom of religious practice is encouraged, but we sadly know from history that acceptance can come less easily—in part, because newcomers bring new and unfamiliar religious faiths and practices. But fear of the unknown can be no excuse for intolerance. Students will specifically study other faith traditions so that unfamiliar practices become respected and understood in a pluralistic society.
+***** fr-ca
+      La liberté de pratique religieuse est encouragée, mais l’histoire nous apprend malheureusement que l’acceptation est moins facile, en partie parce que les nouveaux arrivants apportent des croyances et des pratiques religieuses nouvelles et peu familières. Mais la peur de l’inconnu ne peut servir d’excuse à l’intolérance. Les élèves examineront d’autres traditions religieuses afin que les pratiques non familières soient respectées et comprises dans une société pluraliste.
