@@ -1,0 +1,38 @@
+[
+  {
+    "code": "COM",
+    "names": {
+      "en-ca": "Competency Progressions",
+      "fr-ca": "Les progressions en compétences"
+    },
+    "contents": {
+      "en-ca": "<b>Competencies</b> are combinations of knowledge, skills, and characteristics that students develop and apply for successful learning, living, and working. They emphasize aspects of learning that apply within and across all subjects and enhance foundational literacy and numeracy. Competencies work together with learning outcomes to prepare Alberta students for successful and fulfilling lives and to make meaningful contributions to their communities and the world. The Competency Progressions identify behaviours that students may demonstrate by the end of the divisional age range.",
+      "fr-ca": "Les <b>compétences</b> sont des combinaisons de connaissances, d’habiletés et de caractéristiques que les élèves développent et appliquent pour réussir dans les apprentissages, la vie quotidienne et le monde du travail. Elles mettent l’accent sur les aspects de l’apprentissage qui s’appliquent dans chaque matière et d’une matière à l’autre et améliorent les composantes fondamentales de la littératie et de la numératie. Les compétences s’associent aux résultats d’apprentissage pour préparer les élèves albertains à une vie réussie et épanouie et à apporter une contribution significative à leur communauté et au monde. Les progressions en compétences déterminent les comportements que les élèves peuvent démontrer à la fin de la tranche d’âge de la division."
+    },
+    "sortOrder": 0
+  },
+  {
+    "code": "LIT",
+    "names": {
+      "en-ca": "Literacy Progressions",
+      "fr-ca": "Les progressions en littératie"
+    },
+    "contents": {
+      "en-ca": "Alberta Education defines literacy as follows: <b>Literacy</b> involves acquiring and applying the understanding and skills necessary to decode, evaluate, and logically communicate ideas and build meaning, using oral, written, visual, and multimedia sources. Literacy is embedded in learning across all subject areas. It is foundational, allowing students to live, learn, and work as knowledgeable, active participants in a democratic society. The Literacy Progressions identify knowledge and behaviours that students may demonstrate by the end of each divisional age range.",
+      "fr-ca": "Alberta Education définit la littératie comme suit : <b>La littératie</b> consiste à acquérir et à appliquer la compréhension et les habiletés nécessaires pour décoder, évaluer et communiquer logiquement des idées et construire un sens, en utilisant des sources orales, écrites, visuelles et multimédias. La littératie fait partie intégrante de l’apprentissage dans toutes les matières. Elle est fondamentale et permet aux élèves de vivre, d’apprendre et de travailler en tant que participants actifs et bien informés dans une société démocratique. Les progressions en littératie déterminent les connaissances et les comportements dont les élèves peuvent faire preuve à la fin de chaque tranche d’âge de la division."
+    },
+    "sortOrder": 1
+  },
+  {
+    "code": "NUM",
+    "names": {
+      "en-ca": "Numeracy Progressions",
+      "fr-ca": "Les progressions en numératie"
+    },
+    "contents": {
+      "en-ca": "Alberta Education defines numeracy as follows: <b>Numeracy</b> involves acquiring and applying the mathematical knowledge and skills needed to engage with quantitative and spatial information in a variety of situations. Numeracy is embedded in learning experiences across all subject areas. It is foundational, allowing students to make informed decisions as knowledgeable, active participants in our democratic society. The Numeracy Progressions identify knowledge and behaviours that students may demonstrate by the end of each divisional age range.",
+      "fr-ca": "Alberta Education définit la numératie comme suit : <b>La numératie</b> consiste à acquérir et à appliquer des connaissances et des habiletés mathématiques nécessaires pour traiter des informations quantitatives et spatiales dans diverses situations. La numératie fait partie intégrante des expériences d’apprentissage dans toutes les matières. Elle est fondamentale et permet aux élèves de prendre des décisions en connaissance de cause en tant que participants actifs et bien informés dans notre société démocratique. Les progressions en numératie déterminent les connaissances et les comportements dont les élèves peuvent faire preuve à la fin de chaque tranche d’âge de la division."
+    },
+    "sortOrder": 2
+  }
+]

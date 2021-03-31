@@ -1,0 +1,290 @@
+[
+  {
+    "code": "NUM-BLA1",
+    "parentCode": "",
+    "featureType": "NUM",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "Awareness",
+      "fr-ca": "Prise de conscience"
+    },
+    "contents": {
+      "en-ca": "Students develop awareness of the numeracy skills required to engage in tasks or to make decisions.",
+      "fr-ca": "Les élèves prennent conscience des habiletés en numératie dont ils ont besoin pour effectuer des tâches ou prendre des décisions."
+    },
+    "sortOrder": 0
+  },
+  {
+    "code": "NUM-BLA2",
+    "parentCode": "",
+    "featureType": "NUM",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "Quantitative Information",
+      "fr-ca": "Information quantitative"
+    },
+    "contents": {
+      "en-ca": "Students apply knowledge of quantitative information to make an informed decision.",
+      "fr-ca": "Les élèves mettent en application leurs connaissances de l’information quantitative pour prendre une décision éclairée."
+    },
+    "sortOrder": 1
+  },
+  {
+    "code": "NUM-BLA3",
+    "parentCode": "",
+    "featureType": "NUM",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "Spatial Information",
+      "fr-ca": "Information spatiale"
+    },
+    "contents": {
+      "en-ca": "Students apply knowledge of spatial information to make an informed decision.",
+      "fr-ca": "Les élèves mettent en application leurs connaissances de l’information spatiale pour prendre une décision éclairée."
+    },
+    "sortOrder": 2
+  },
+  {
+    "code": "NUM-BLA4",
+    "parentCode": "",
+    "featureType": "NUM",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "Interpret, Represent, Communicate",
+      "fr-ca": "Interpréter, représenter, communiquer"
+    },
+    "contents": {
+      "en-ca": "Students interpret, represent, and communicate in a variety of digital and non-digital formats to support decisions in situations involving numeracy.",
+      "fr-ca": "Les élèves interprètent, représentent et communiquent l’information sous diverses formes numériques et non numériques pour appuyer leurs décisions dans des situations faisant appel à la numératie."
+    },
+    "sortOrder": 3
+  },
+  {
+    "code": "NUM-BLA5",
+    "parentCode": "",
+    "featureType": "NUM",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "Strategies, Methods, or Tools",
+      "fr-ca": "Stratégies, méthodes et outils"
+    },
+    "contents": {
+      "en-ca": "Students use efficient and effective strategies, methods, or tools to manage quantitative and spatial information.",
+      "fr-ca": "Les élèves utilisent des stratégies, des méthodes ou des outils efficients et efficaces pour gérer l’information quantitative ou spatiale."
+    },
+    "sortOrder": 4
+  },
+  {
+    "code": "LIT-BLA1",
+    "parentCode": "",
+    "featureType": "LIT",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "Awareness",
+      "fr-ca": "Prise de conscience"
+    },
+    "contents": {
+      "en-ca": "Students develop awareness of the literacy skills required to engage in tasks or to make decisions.",
+      "fr-ca": "Les élèves prennent conscience des habiletés en littératie dont ils ont besoin pour effectuer des tâches ou prendre des décisions."
+    },
+    "sortOrder": 0
+  },
+  {
+    "code": "LIT-BLA2",
+    "parentCode": "",
+    "featureType": "LIT",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "Rules of Language",
+      "fr-ca": "Règles du langage"
+    },
+    "contents": {
+      "en-ca": "Students use rules of language to acquire, construct, and communicate meaning.",
+      "fr-ca": "Les élèves utilisent les règles du langage pour acquérir, construire et communiquer un sens."
+    },
+    "sortOrder": 1
+  },
+  {
+    "code": "LIT-BLA3",
+    "parentCode": "",
+    "featureType": "LIT",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "Acquire Information",
+      "fr-ca": "Acquérir de l’information"
+    },
+    "contents": {
+      "en-ca": "Students use efficient and effective strategies to acquire, evaluate, and ethically use information.",
+      "fr-ca": "Les élèves utilisent des stratégies efficientes et efficaces pour acquérir et évaluer l’information et l’utiliser de manière éthique."
+    },
+    "sortOrder": 2
+  },
+  {
+    "code": "LIT-BLA4",
+    "parentCode": "",
+    "featureType": "LIT",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "Construct Meaning",
+      "fr-ca": "Construire un sens"
+    },
+    "contents": {
+      "en-ca": "Students use efficient and effective strategies to construct meaning.",
+      "fr-ca": "Les élèves utilisent des stratégies efficientes et efficaces pour construire un sens."
+    },
+    "sortOrder": 3
+  },
+  {
+    "code": "LIT-BLA5",
+    "parentCode": "",
+    "featureType": "LIT",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "Communicate Meaning",
+      "fr-ca": "Communiquer un sens"
+    },
+    "contents": {
+      "en-ca": "Students communicate to convey concepts, ideas, and understandings.",
+      "fr-ca": "Les élèves communiquent afin de transmettre des concepts, des idées et leur compréhension."
+    },
+    "sortOrder": 4
+  },
+  {
+    "code": "COM-BLA1",
+    "parentCode": "",
+    "featureType": "COM",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "",
+      "fr-ca": ""
+    },
+    "contents": {
+      "en-ca": "<strong>Critical Thinking</strong> involves reasoning logically to analyze and synthesize new knowledge with existing knowledge in a coherent way.",
+      "fr-ca": "<strong>La pensée critique</strong> consiste à raisonner logiquement pour analyser et synthétiser de manière cohérente les nouvelles connaissances avec les connaissances ainsi que les connaissances existantes."
+    },
+    "sortOrder": 0
+  },
+  {
+    "code": "COM-BLA2",
+    "parentCode": "",
+    "featureType": "COM",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "",
+      "fr-ca": ""
+    },
+    "contents": {
+      "en-ca": "<strong>Problem Solving</strong> involves selecting strategies and resources to move from what is known to what is sought.",
+      "fr-ca": "<strong>La résolution de problèmes</strong> consiste à choisir des stratégies et des ressources pour passer de ce qui est connu à ce qui est recherché."
+    },
+    "sortOrder": 1
+  },
+  {
+    "code": "COM-BLA3",
+    "parentCode": "",
+    "featureType": "COM",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "",
+      "fr-ca": ""
+    },
+    "contents": {
+      "en-ca": "<strong>Research and Managing Information</strong> involves research skills as well as organizing and using information for specific purposes.",
+      "fr-ca": "<strong>La recherche et la gestion de l’information</strong> font appel à des habiletés en matière de recherche ainsi qu’à l’organisation et l’utilisation de l’information par rapport aux objectifs précis."
+    },
+    "sortOrder": 2
+  },
+  {
+    "code": "COM-BLA4",
+    "parentCode": "",
+    "featureType": "COM",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "",
+      "fr-ca": ""
+    },
+    "contents": {
+      "en-ca": "<strong>Creativity and Innovation</strong> involves generating and applying knowledge and skill to create something new of value.",
+      "fr-ca": "<strong>La créativité et l'innovation</strong> consistent à générer et à appliquer des connaissances et des habiletés pour créer quelque chose de nouveau de valeur."
+    },
+    "sortOrder": 3
+  },
+  {
+    "code": "COM-BLA5",
+    "parentCode": "",
+    "featureType": "COM",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "",
+      "fr-ca": ""
+    },
+    "contents": {
+      "en-ca": "<strong>Communication</strong> involves sharing ideas through oral, written, or non-verbal media.",
+      "fr-ca": "<strong>La communication</strong> consiste à communiquer des idées grâce aux médias oraux, écrits ou non verbaux."
+    },
+    "sortOrder": 4
+  },
+  {
+    "code": "COM-BLA6",
+    "parentCode": "",
+    "featureType": "COM",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "",
+      "fr-ca": ""
+    },
+    "contents": {
+      "en-ca": "<strong>Collaboration</strong> involves working with others to achieve worthy common goals.",
+      "fr-ca": "<strong>La collaboration</strong> consiste à travailler avec d’autres personnes pour atteindre des objectifs communs valables."
+    },
+    "sortOrder": 5
+  },
+  {
+    "code": "COM-BLA7",
+    "parentCode": "",
+    "featureType": "COM",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "",
+      "fr-ca": ""
+    },
+    "contents": {
+      "en-ca": "<strong>Citizenship</strong> involves participating in the institutions of our society as educated citizens. Students share responsibilities and approach the world with empathy, intellectual curiosity, and humility.",
+      "fr-ca": "<strong>La citoyenneté</strong> consiste à participer aux institutions de notre société en tant que citoyens éduqués. Les élèves partagent des responsabilités et abordent le monde avec empathie, curiosité intellectuelle et humilité."
+    },
+    "sortOrder": 6
+  },
+  {
+    "code": "COM-BLA8",
+    "parentCode": "",
+    "featureType": "COM",
+    "typeCode": "BLA",
+    "divisionType": "",
+    "titles": {
+      "en-ca": "",
+      "fr-ca": ""
+    },
+    "contents": {
+      "en-ca": "<strong>Personal Growth and Well-being</strong> involves managing emotional, intellectual, physical, social, and spiritual aspects of living well. Students develop character and talent and apply the virtues of wisdom, courage, self-control, justice, charity, and hope.",
+      "fr-ca": "<strong>La croissance et le bienêtre personnels</strong> consistent à gérer des aspects émotionnels, intellectuels, physiques, sociaux et spirituels pour bien vivre. Les élèves développent leur personnalité et leur talent, et appliquent les vertus de la sagesse, du courage, de la maitrise de soi, de la justice, de la charité et de l’espoir."
+    },
+    "sortOrder": 7
+  }
+]
